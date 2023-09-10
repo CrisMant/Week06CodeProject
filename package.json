@@ -1,0 +1,16 @@
+{
+  "name": "week06codeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week06codeproject.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
